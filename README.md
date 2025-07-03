@@ -15,7 +15,7 @@ The dataset was provided in the tutorial and is publicly available on [Kaggle â€
 Dashboard created while following [Create Netflix dashboard with Tableau in 30 minutes](https://www.youtube.com/watch?v=BTArwS4ljC4&t=1216s&ab_channel=DataScienceRoadMap) for learning purposes.
 
 ## Screenshot
-![Dashboard](./dashboard-screenshot.png)
+![Image](https://github.com/user-attachments/assets/ac6ff832-e14e-4654-a8f0-6e0dbf624fa2)
 
 ## View Live
 ðŸ‘‰ [View on Tableau Public](https://public.tableau.com/app/profile/fatma.moataz/viz/Netflix_17515384111860/Netflix)
